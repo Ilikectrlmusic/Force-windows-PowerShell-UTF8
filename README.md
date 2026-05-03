@@ -1,0 +1,1 @@
+强制windows的powershell使用utf-8编码，避免AI写的中文变成问号
